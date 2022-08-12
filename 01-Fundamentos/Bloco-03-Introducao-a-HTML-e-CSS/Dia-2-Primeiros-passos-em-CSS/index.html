@@ -4,9 +4,16 @@
     <meta charset="UTF-8">
     <title>HTML</title>
     <style>
+      body {
+        font-size: 16px;
+      }
+
       h1 {
         font-size: 65px;
         color: orange;
+        font-family: sans-serif;
+        text-align: center;
+        text-decoration: overline;
       }
 
       ul {
@@ -16,15 +23,29 @@
       .background-style {
         background-color: aqua;
       }
+      p {
+        font-weight: 600;
+        font-size: 3em;
+        line-height: normal;
+      }
+      #background-yellow {
+        background-color: yellow;
+      }
+      #background-red {
+        background-color: red;
+      }
+      #background-brown {
+        background-color: brown;
+      }
     </style>
   </head>
   <body>
     <h1>Exercícios 3.2</h1>
     <p class="background-style">Qual é a sua cor favorita?</p>
     <ul class="background-style">
-      <li>Amarelo</li>
-      <li>Vermelho</li>
-      <li>Marrom</li>
+      <li id="background-yellow">Amarelo</li>
+      <li id="background-red">Vermelho</li>
+      <li id="background-brown">Marrom</li>
     </ul>
   </body>
 </html>
