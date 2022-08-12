@@ -1,0 +1,24 @@
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 65px;
+  color: orange;
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration: overline;
+}
+
+ul {
+  background-color: blueviolet;
+}
+
+.background-style {
+  background-color: aqua;
+}
+p {
+  font-weight: 600;
+  font-size: 3em;
+  line-height: normal;
+}
