@@ -10,3 +10,6 @@ ol li:active {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+ol, ul {
+  list-style: none;
+}
