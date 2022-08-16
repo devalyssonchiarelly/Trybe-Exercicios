@@ -9,3 +9,12 @@ ol li {
 .item-impar {
   text-transform: uppercase;
 }
+
+h1 {
+  font-size: 40px;
+  border: 1px solid black;
+}
+
+h1, h3 {
+ color: red;
+}
