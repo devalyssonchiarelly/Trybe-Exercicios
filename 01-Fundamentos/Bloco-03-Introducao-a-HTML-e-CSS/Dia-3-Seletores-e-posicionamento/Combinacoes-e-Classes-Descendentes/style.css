@@ -1,5 +1,14 @@
 ol li {
   background-color: yellow;
+  font-size: 20px;
+}
+
+ul li {
+  font-size: 20px;
+}
+
+.negrito {
+  font-weight: 700;
 }
 
 .item-par {
