@@ -27,3 +27,11 @@ h1 {
 h1, h3 {
  color: red;
 }
+
+.item {
+  color: blue;
+}
+
+.item-java {
+  background-color: pink;
+}
