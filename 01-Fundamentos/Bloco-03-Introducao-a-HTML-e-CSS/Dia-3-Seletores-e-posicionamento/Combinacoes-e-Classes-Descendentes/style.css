@@ -11,11 +11,11 @@ ul li {
   font-weight: 700;
 }
 
-.item-par {
+ol > li:nth-of-type(even) {
   color: green;
 }
 
-.item-impar {
+ol > li:nth-of-type(odd) {
   text-transform: uppercase;
 }
 
