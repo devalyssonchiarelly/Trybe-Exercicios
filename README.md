@@ -21,16 +21,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 2-2: _Git & GitHub - Entendendo os Comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_  
 
-### Bloco 3: Introdução - HTML & CSS ⏳
+### Bloco 3: Introdução - HTML & CSS ✅
 
 - [x] 3-1: _Introdução - HTML & CSS_
 - [x] 3-1: _HTML & CSS - Estruturas de página_
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_ 
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [ ] 3-5: _Projeto - Lessons Learned_
+- [x] 3-5: _Projeto - Lessons Learned_
 
-### Bloco 4: Introdução à JavaScript e Lógica de Programação
+### Bloco 4: Introdução à JavaScript e Lógica de Programação ⏳
 
 - [ ] 4-1: _Introdução - JavaScript_
 - [ ] 4-1: _JavaScript - Primeiros passos_
