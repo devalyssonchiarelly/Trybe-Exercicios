@@ -30,16 +30,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _Projeto - Lessons Learned_
 
-### Bloco 4: Introdução à JavaScript e Lógica de Programação ⏳
+### Bloco 4: Introdução à JavaScript e Lógica de Programação ✅
 
 - [x] 4-1: _Introdução - JavaScript_
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _Projeto - Playground Functions_
+- [x] 4-5: _Projeto - Playground Functions_
 
-### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+### Bloco 5: JavaScript: DOM, Eventos e Web Storage ⏳
 
 - [ ] 5-1: _JavaScript - DOM e seletores_
 - [ ] 5-2: _JavaScript - Trabalhando com elementos_
