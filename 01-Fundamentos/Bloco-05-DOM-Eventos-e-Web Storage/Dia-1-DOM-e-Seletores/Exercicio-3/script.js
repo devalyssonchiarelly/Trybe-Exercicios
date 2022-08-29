@@ -1,0 +1,9 @@
+document.getElementById("container").style.backgroundColor = "#f3f3f3";
+document.getElementById("header-container").style.backgroundColor = "#5fb26a";
+document.getElementById("footer-container").style.backgroundColor = "#173633";
+document.getElementsByClassName("emergency-tasks")[0].style.backgroundColor = "#ee9c83";
+document.getElementsByClassName("no-emergency-tasks")[0].style.backgroundColor = "#f9db5e";
+document.querySelectorAll(".emergency-tasks h3")[0].style.backgroundColor = "#ad72f2";
+document.querySelectorAll(".emergency-tasks h3")[1].style.backgroundColor = "#ad72f2";
+document.querySelectorAll(".no-emergency-tasks h3")[0].style.backgroundColor = "#232525";
+document.querySelectorAll(".no-emergency-tasks h3")[1].style.backgroundColor = "#232525";
