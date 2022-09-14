@@ -60,7 +60,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 6-3: _CSS Flexbox - Parte 1_
 - [x] 6-4: _CSS Felxbox - Parte 2_
 - [x] 6-5: _CSS Responsive - Mobile First_
-- [ ] 6-6: _Projeto - Trybewarts_
+- [x] 6-6: _Projeto - Trybewarts_
 
 ### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
