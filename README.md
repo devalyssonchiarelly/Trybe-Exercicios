@@ -8,20 +8,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 # Fundamentos do Desenvolvimento Web ⏳
 
-### Bloco 1: Introdução - Unix & Shell ✅
+### Seção 1: Introdução - Unix & Shell ✅
 
 - [x] 1-1: _Fundamentos do Desenvolvimento Web_ 
 - [x] 1-2: _Introdução - Unix & Shell_
 - [x] 1-3: _Unix & Bash - Parte 1_
 - [x] 1-4: _Unix & Bash - Parte 2_  
 
-### Bloco 2: Git, GitHub e Internet ✅
+### Seção 2: Git, GitHub e Internet ✅
 
 - [x] 2-1: _Git & GitHub - O que é e para que serve_
 - [x] 2-2: _Git & GitHub - Entendendo os Comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_  
 
-### Bloco 3: Introdução - HTML & CSS ✅
+### Seção 3: Introdução - HTML & CSS ✅
 
 - [x] 3-1: _Introdução - HTML & CSS_
 - [x] 3-1: _HTML & CSS - Estruturas de página_
@@ -30,7 +30,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _Projeto - Lessons Learned_
 
-### Bloco 4: Introdução à JavaScript e Lógica de Programação ✅
+### Seção 4: Introdução à JavaScript e Lógica de Programação ✅
 
 - [x] 4-1: _Introdução - JavaScript_
 - [x] 4-1: _JavaScript - Primeiros passos_
@@ -39,7 +39,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [x] 4-5: _Projeto - Playground Functions_
 
-### Bloco 5: JavaScript: DOM, Eventos e Web Storage ✅
+### Seção 5: JavaScript: DOM, Eventos e Web Storage ✅
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
@@ -52,7 +52,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 5-7: _Projeto - Adivinhe a Cor_
 - [x] 5-7: _Projeto - Carta Misteriosa_
 
-### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo ✅
+### Seção 6: HTML e CSS: Forms, Flexbox e Responsivo ✅
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -62,16 +62,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 6-5: _CSS Responsive - Mobile First_
 - [x] 6-6: _Projeto - Trybewarts_
 
-### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários ⏳
+### Seção 7: Introdução à JavaScript ES6 e Testes Unitários ⏳
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Fluxo de execução e Objetos_
 - [x] 7-3: _Primeiros passos em Jest_
-- [ ] 7-4: _Projeto - JavaScript Testes Unitários_
+- [x] 7-4: _Projeto - JavaScript Testes Unitários_
 
-### Bloco 8: Higher Order Functions do JavaScript ES6
+### Seção 8: Higher Order Functions do JavaScript ES6
 
-- [ ] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
+- [x] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
 - [ ] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [ ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
@@ -80,7 +80,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 # Desenvolvimento Front-End
 
-### Bloco 9: JavaScript e Testes Assíncronos
+### Seção 1: JavaScript e Testes Assíncronos
 
 - [ ] 9-1: _Introdução - Front-End_
 - [ ] 9-1: _JavaScript Assícrono e Callbacks_
@@ -88,38 +88,38 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 9-3: _Jest - Testes Assícronos_
 - [ ] 9-4: _Projeto - Carrinho de Compras_
 
-### Bloco 10: Introdução à React
+### Seção 2: Introdução à React
 
 - [ ] 10-1: _Introdução - React_
 - [ ] 10-1: _Hello, world no React!_
 - [ ] 10-2: _Componentes React_
 - [ ] 10-3: _Projeto - Sistema Solar_
 
-### Bloco 11: Componentes com Estado, Eventos e Formulários com React
+### Seção 3: Componentes com Estado, Eventos e Formulários com React
 
 - [ ] 11-1: _Componentes com estado e eventos_
 - [ ] 11-2: _Formulários no React_
 - [ ] 11-3: _Projeto - Tryunfo_
 
-### Bloco 12: Ciclo de Vida de Componentes e React Router
+### Seção 4: Ciclo de Vida de Componentes e React Router
 
 - [ ] 12-1: _Ciclo de vida de componentes 
 - [ ] 12-2: _React Router_
 - [ ] 12-3: _Projeto - TrybeTunes_
 
-### Bloco 13: Metodologias Ágeis
+### Seção 5: Metodologias Ágeis
 
 - [ ] 13-1: _Metodologias Ágeis_
 - [ ] 13-2: _Projeto - Frontend Online Store_
 
-### Bloco 14: Testes automatizados com React Testing Libary
+### Seção 6: Testes automatizados com React Testing Libary
 
 - [ ] 14-1: _RTL - Primeiros passos_
 - [ ] 14-2: _RTL - Mocks e Inputs_
 - [ ] 14-3: _RLT - Testando React Router_
 - [ ] 14-4: _Projeto - Testes em React_
 
-### Bloco 15: Gerenciamento de estado com Redux
+### Seção 7: Gerenciamento de estado com Redux
 
 - [ ] 15-1: _Introdução ao Redux - O estado global da aplicação_
 - [ ] 15-2: _Usando o Redux no React_
@@ -128,18 +128,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 15-5: _Testes em React-Redux_
 - [ ] 15-6: _Projeto - Trybe Wallet_
 
-### Bloco 16: Projeto Jogo de Trivia
+### Seção 8: Projeto Jogo de Trivia
 
 - [ ] 16-1: _Projeto - Jogo de Trivia_
 
-### Bloco 17: Context API e React Hooks
+### Seção 9: Context API e React Hooks
 
 - [ ] 17-1: _Context API do React_
 - [ ] 17-2: _React Hooks - useState e useContext_
 - [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 17-4: _Projeto - StarWars Datable com Context API e Hooks_ 
 
-### Bloco 18: Projeto App de Receitas
+### Seção 10: Projeto App de Receitas
 
 - [ ] 18-1: _Projeto - App de Receitas_
 
