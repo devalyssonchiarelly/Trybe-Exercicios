@@ -248,3 +248,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [ ] 14-1: _Dia 1 - VPS_
 - [ ] 14-2: _Dia 2 - CD_
+
+# Ciência da Computação
