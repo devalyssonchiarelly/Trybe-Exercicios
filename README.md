@@ -145,7 +145,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 # Desenvolvimento Back-End
 
-### Bloco 19: Docker - Utilizando Containers
+### Seção 1: Docker - Utilizando Containers
 
 - [ ] 19-1: _Introdução - Back-end_
 - [ ] 19-1: _Utilizando Containers - Docker_
@@ -153,7 +153,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 19-3: _Orquestrando Containers com Docker Compose_
 - [ ] 19-4: _Projeto - Docker Todo-List_
 
-### Bloco 20: Introdução à SQL
+### Seção 2: Introdução à SQL
 
 - [ ] 20-1: _Introdução - Banco de dados relacionais_
 - [ ] 20-1: _Banco de dados SQL_
@@ -162,14 +162,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 20-4: _Manipulando tabelas_
 - [ ] 20-5: _Projeto - All For One_
 
-### Bloco 21: Funções SQL,  JOINs e Normalização
+### Seção 3: Funções SQL,  JOINs e Normalização
 
 - [ ] 21-1: _Funções mais usadas no SQL_
 - [ ] 21-2: _Descomplicando JOINs_
 - [ ] 21-3: _Transformando ideias em um modelo de banco de dados_
 - [ ] 21-04: _Aula ao vivo + Projeto - One For All_
 
-### Bloco 22: Introdução ao desenvolvimento Web com Node.js
+### Seção 4: Introdução ao desenvolvimento Web com Node.js
 
 - [ ] 22-1: _Intro - Node.js_
 - [ ] 22-1: _Node.js - Um motor JavaScript_
@@ -179,7 +179,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 22-5: _Express - Middlewares_
 - [ ] 22-6: _Atividades + Projeto - Talker Manager_
 
-### Bloco 23: Node.js - Camada de Serviço e Arquitetura Rest e Restful
+### Seção 5: Node.js - Camada de Serviço e Arquitetura Rest e Restful
 
 - [ ] 23-1: _Introdução - Arquitetura de Software_
 - [ ] 23-1: _Arquitetura de Software - Camada de Model_
@@ -188,7 +188,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 23-4: _Arquitetura de Software - Testando as Camadas_
 - [ ] 23-5: _Projeto - Store Manager_
 
-### Bloco 24: Node.js - ORM e Autenticação
+### Seção 6: Node.js - ORM e Autenticação
 
 - [ ] 24-1: _Introdução - Node.js: ORM e Autenticação_
 - [ ] 24-1: _ORM - Interface da aplicação com o banco de dados_
@@ -197,21 +197,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 24-4: _Testando APIs com Testes de Integração_
 - [ ] 24-5: _Projeto - API de Blogs_
 
-### Bloco 25: Deployment
+### Seção 7: Deployment
 
 - [ ] 25-1: _Introdução - Deploy_
 - [ ] 25-1: _Infraestrutura - Deploy com Heroku_
 - [ ] 25-2: _Deploy Docker & Heroku_
 - [ ] 25-3: _Projeto - Stranger Things_
 
-### Bloco 26: TypeScript
+### Seção 8: TypeScript
 
 - [ ] 26-1: _Introdução - TypeScript_
 - [ ] 26-2: _Tipagem Estática e Generics_
 - [ ] 26-3: _Express com TypeScript_
 - [ ] 26-4: _Projeto - Trybe Smith_
 
-### Bloco 27: Programaão Orientada a Objetos (POO) e SOLID
+### Seção 9: Programaão Orientada a Objetos (POO) e SOLID
 
 - [ ] 27-1: _Introdução à Orientação a Objetos_
 - [ ] 27-2: _Herança e Interfaces_
@@ -220,11 +220,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 27-5: _SOLID - Princípios L e I_
 - [ ] 27-6: _Projeto - Trybers and Dragons_
 
-### Bloco 28: Projeto - TFC - Trybe Futtebol Clube
+### Seção 10: Projeto - TFC - Trybe Futtebol Clube
 
 - [ ] 28-1: _Projeto - TFC - Trybe Futebol Clube_
 
-### Bloco 29: Introdução ao MongoDB
+### Seção 11: Introdução ao MongoDB
 
 - [ ] 29-1: _Introdução - NoSQL_
 - [ ] 29-1: _MongoDB - Introdução_
@@ -234,17 +234,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 29-5: _Updates Complexos - Arrays_
 - [ ] 29-6: _Projeto - Commerce_
 
-### Bloco 30: MongoDB com Node.js e POO
+### Seção 12: MongoDB com Node.js e POO
 
 - [ ] 30-1: _Mongoose e arquitetura MSC (Camada Model)_
 - [ ] 30-2: _Mongoose e arquitetura MSC (Camada Service e Controller)_
 - [ ] 30-3: _Projeto - Car Shop_
 
-### Bloco 31: Projeto - App de Delivery
+### Seção 13: Projeto - App de Delivery
 
 - [ ] 31-1: _Projeto - App de Delivery_
 
-### Bloco 32: MasterClass - VPS, CI/CD
+### Seção 14: MasterClass - VPS, CI/CD
 
 - [ ] 32-1: _Dia 1 - VPS_
 - [ ] 32-2: _Dia 2 - CD_
