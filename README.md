@@ -258,4 +258,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 1-3: _Testes_
 - [ ] 1-4: _Projeto - Job Insigths_
 
+### Seção 2: Padrões de Projeto
+
+- [ ] 2-1: _P.O.O em Python_
+- [ ] 2-2: _Padrões - Interator, Adapter, Strategy_
+- [ ] 2-3: _Padrões - Decorator, Observer, Factory_
+- [ ] 2-4: _Projeto - Relatórios de Estoque_
+
 
