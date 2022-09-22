@@ -265,4 +265,30 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 2-3: _Padrões - Decorator, Observer, Factory_
 - [ ] 2-4: _Projeto - Relatórios de Estoque_
 
+### Seção 3: Redes e Raspagem de Dados
 
+- [ ] 3-1: _Arquitetura de Redes_
+- [ ] 3-2: _Raspagem de Dados_
+- [ ] 3-3: _Outras Ferramentas de Raspagem de Dados_
+- [ ] 3-4: _Projeto - Tech News_
+
+### Seção 4: Algoritmos
+
+- [ ] 4-1: _Complexidade de Algoritmos_
+- [ ] 4-2: _Recursividade e Estratégias para Solução de Problemas_
+- [ ] 4-3: _Algoritmos de Ordenação e Busca_
+- [ ] 4-4: _Projeto - Algoritmos_
+
+### Seção 5: Estrutura de Dados I: Array, Listas, Filas e Pilhas
+
+- [ ] 5-1: _Arquitetura de Computadores_
+- [ ] 5-2: _Arrays_
+- [ ] 5-3: _Nó e Listas Encadeadas_
+- [ ] 5-4: _Pilhas e Filas_
+- [ ] 5-5: _Projeto - TING - Tybe Is Not Google_
+
+### Seção 6: Estrutura de Dados II: Hashmaps e Sets
+
+- [ ] 6-1: _Hasmap e Dict_
+- [ ] 6-2: _Set_
+- [ ] 6-3: _Projeto - Restaurant Orders_
