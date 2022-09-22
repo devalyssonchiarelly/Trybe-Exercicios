@@ -250,3 +250,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 14-2: _Dia 2 - CD_
 
 # Ciência da Computação
+
+### Seção 1: Introdução à Python
+
+- [ ] 1-1: _Aprendendo Python_
+- [ ] 1-2: _Entrada e Saida de Dados_
+- [ ] 1-3: _Testes_
+- [ ] 1-4: _Projeto - Job Insigths_
+
+
