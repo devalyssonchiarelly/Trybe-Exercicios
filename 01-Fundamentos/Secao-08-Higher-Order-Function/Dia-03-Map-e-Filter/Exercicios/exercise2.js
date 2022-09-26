@@ -66,3 +66,12 @@ const books = [
 const infoBooks = books.map((book) => `${book.name} - ${book.genre} - ${book.author.name}`);
 
 console.log(infoBooks);
+
+// Retorna um objeto com nome e idade do autor, na data de lançamento do livro de forma ordenada.
+
+const authorAndAge = books.map((arrayAuthor) => ({
+  Author: arrayAuthor.author.name,
+  Age: arrayAuthor.releaseYear - arrayAuthor.author.birthYear
+})).sort((a, b) => a.Age - b.Age);
+
+console.log(authorAndAge);
