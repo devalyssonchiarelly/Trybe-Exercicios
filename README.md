@@ -82,18 +82,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ### Seção 1: JavaScript e Testes Assíncronos
 
-- [ ] 1-1: _Introdução - Front-End_
-- [ ] 1-1: _JavaScript Assícrono e Callbacks_
-- [ ] 1-2: _JavaScript Assicrono - Fetch API e async/await
-- [ ] 1-3: _Jest - Testes Assícronos_
-- [ ] 1-4: _Projeto - Carrinho de Compras_
+- [x] 1-1: _Introdução - Front-End_
+- [x] 1-1: _JavaScript Assícrono e Callbacks_
+- [x] 1-2: _JavaScript Assicrono - Fetch API e async/await
+- [x] 1-3: _Jest - Testes Assícronos_
+- [x] 1-4: _Projeto - Carrinho de Compras_
 
 ### Seção 2: Introdução à React
 
-- [ ] 2-1: _Introdução - React_
-- [ ] 2-1: _Hello, world no React!_
-- [ ] 2-2: _Componentes React_
-- [ ] 2-3: _Projeto - Sistema Solar_
+- [x] 2-1: _Introdução - React_
+- [x] 2-1: _Hello, world no React!_
+- [x] 2-2: _Componentes React_
+- [x] 2-3: _Projeto - Sistema Solar_
 
 ### Seção 3: Componentes com Estado, Eventos e Formulários com React
 
