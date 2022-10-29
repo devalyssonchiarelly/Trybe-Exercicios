@@ -80,7 +80,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 # Desenvolvimento Front-End ⏳
 
-### Seção 1: JavaScript e Testes Assíncronos
+### Seção 1: JavaScript e Testes Assíncronos ✅
 
 - [x] 1-1: _Introdução - Front-End_
 - [x] 1-1: _JavaScript Assícrono e Callbacks_
@@ -88,20 +88,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 1-3: _Jest - Testes Assícronos_
 - [x] 1-4: _Projeto - Carrinho de Compras_
 
-### Seção 2: Introdução à React
+### Seção 2: Introdução à React ✅
 
 - [x] 2-1: _Introdução - React_
 - [x] 2-1: _Hello, world no React!_
 - [x] 2-2: _Componentes React_
 - [x] 2-3: _Projeto - Sistema Solar_
 
-### Seção 3: Componentes com Estado, Eventos e Formulários com React
+### Seção 3: Componentes com Estado, Eventos e Formulários com React ✅
 
-- [ ] 3-1: _Componentes com estado e eventos_
-- [ ] 3-2: _Formulários no React_
-- [ ] 3-3: _Projeto - Tryunfo_
+- [x] 3-1: _Componentes com estado e eventos_
+- [x] 3-2: _Formulários no React_
+- [x] 3-3: _Projeto - Tryunfo_
 
-### Seção 4: Ciclo de Vida de Componentes e React Router
+### Seção 4: Ciclo de Vida de Componentes e React Router ⏳
 
 - [ ] 4-1: _Ciclo de vida de componentes 
 - [ ] 4-2: _React Router_
