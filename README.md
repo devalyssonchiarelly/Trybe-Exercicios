@@ -101,13 +101,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3-2: _Formulários no React_
 - [x] 3-3: _Projeto - Tryunfo_
 
-### Seção 4: Ciclo de Vida de Componentes e React Router ⏳
+### Seção 4: Ciclo de Vida de Componentes e React Router ✅
 
 - [x] 4-1: _Ciclo de vida de componentes 
 - [x] 4-2: _React Router_
 - [x] 4-3: _Projeto - TrybeTunes_
 
-### Seção 5: Metodologias Ágeis
+### Seção 5: Metodologias Ágeis ⏳
 
 - [ ] 5-1: _Metodologias Ágeis_
 - [ ] 5-2: _Projeto - Frontend Online Store_
