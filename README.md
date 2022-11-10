@@ -109,7 +109,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ### Seção 5: Metodologias Ágeis ⏳
 
-- [ ] 5-1: _Metodologias Ágeis_
+- [x] 5-1: _Metodologias Ágeis_
 - [ ] 5-2: _Projeto - Frontend Online Store_
 
 ### Seção 6: Testes automatizados com React Testing Libary
