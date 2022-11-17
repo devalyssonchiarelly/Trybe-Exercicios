@@ -107,12 +107,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 4-2: _React Router_
 - [x] 4-3: _Projeto - TrybeTunes_
 
-### Seção 5: Metodologias Ágeis ⏳
+### Seção 5: Metodologias Ágeis ✅
 
 - [x] 5-1: _Metodologias Ágeis_
 - [x] 5-2: _Projeto - Frontend Online Store_
 
-### Seção 6: Testes automatizados com React Testing Libary
+### Seção 6: Testes automatizados com React Testing Libary ⏳
 
 - [ ] 6-1: _RTL - Primeiros passos_
 - [ ] 6-2: _RTL - Mocks e Inputs_
