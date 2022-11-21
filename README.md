@@ -116,7 +116,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 6-1: _RTL - Primeiros passos_
 - [x] 6-2: _RTL - Mocks e Inputs_
-- [ ] 6-3: _RLT - Testando React Router_
+- [x] 6-3: _RLT - Testando React Router_
 - [ ] 6-4: _Projeto - Testes em React_
 
 ### Seção 7: Gerenciamento de estado com Redux
