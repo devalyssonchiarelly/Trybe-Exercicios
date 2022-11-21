@@ -114,8 +114,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ### Seção 6: Testes automatizados com React Testing Libary ⏳
 
-- [ ] 6-1: _RTL - Primeiros passos_
-- [ ] 6-2: _RTL - Mocks e Inputs_
+- [x] 6-1: _RTL - Primeiros passos_
+- [x] 6-2: _RTL - Mocks e Inputs_
 - [ ] 6-3: _RLT - Testando React Router_
 - [ ] 6-4: _Projeto - Testes em React_
 
