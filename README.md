@@ -112,14 +112,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 5-1: _Metodologias Ágeis_
 - [x] 5-2: _Projeto - Frontend Online Store_
 
-### Seção 6: Testes automatizados com React Testing Libary ⏳
+### Seção 6: Testes automatizados com React Testing Libary ✅
 
 - [x] 6-1: _RTL - Primeiros passos_
 - [x] 6-2: _RTL - Mocks e Inputs_
 - [x] 6-3: _RLT - Testando React Router_
-- [ ] 6-4: _Projeto - Testes em React_
+- [X] 6-4: _Projeto - Testes em React_
 
-### Seção 7: Gerenciamento de estado com Redux
+### Seção 7: Gerenciamento de estado com Redux ⏳
 
 - [ ] 7-1: _Introdução ao Redux - O estado global da aplicação_
 - [ ] 7-2: _Usando o Redux no React_
