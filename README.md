@@ -121,10 +121,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ### Seção 7: Gerenciamento de estado com Redux ⏳
 
-- [ ] 7-1: _Introdução ao Redux - O estado global da aplicação_
-- [ ] 7-2: _Usando o Redux no React_
-- [ ] 7-3: _Usando o Redux no React - Prática_
-- [ ] 7-4: _Usando o Redux no React - Actions Assícronas_
+- [x] 7-1: _Introdução ao Redux - O estado global da aplicação_
+- [x] 7-2: _Usando o Redux no React_
+- [x] 7-3: _Usando o Redux no React - Prática_
+- [x] 7-4: _Usando o Redux no React - Actions Assícronas_
 - [ ] 7-5: _Testes em React-Redux_
 - [ ] 7-6: _Projeto - Trybe Wallet_
 
