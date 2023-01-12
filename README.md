@@ -130,7 +130,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ### Seção 8: Projeto Jogo de Trivia ⏳
 
-- [ ] 8-1: _Projeto - Jogo de Trivia_
+- [x] 8-1: _Projeto - Jogo de Trivia_
 
 ### Seção 9: Context API e React Hooks
 
