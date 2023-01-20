@@ -128,11 +128,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 7-5: _Testes em React-Redux_
 - [x] 7-6: _Projeto - Trybe Wallet_
 
-### Seção 8: Projeto Jogo de Trivia ⏳
+### Seção 8: Projeto Jogo de Trivia ✅
 
 - [x] 8-1: _Projeto - Jogo de Trivia_
 
-### Seção 9: Context API e React Hooks
+### Seção 9: Context API e React Hooks⏳
 
 - [x] 9-1: _Context API do React_
 - [x] 9-2: _React Hooks - useState e useContext_
