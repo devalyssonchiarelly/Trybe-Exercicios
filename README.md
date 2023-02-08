@@ -78,7 +78,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 8-5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [x] 8-6: _Projeto - Zoo functions_ 
 
-# Desenvolvimento Front-End ⏳
+# Desenvolvimento Front-End ✅
 
 ### Seção 1: JavaScript e Testes Assíncronos ✅
 
@@ -132,20 +132,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 8-1: _Projeto - Jogo de Trivia_
 
-### Seção 9: Context API e React Hooks⏳
+### Seção 9: Context API e React Hooks ✅
 
 - [x] 9-1: _Context API do React_
 - [x] 9-2: _React Hooks - useState e useContext_
 - [x] 9-3: _React Hooks - useEffect e Hooks customizados_
 - [x] 9-4: _Projeto - StarWars Datable com Context API e Hooks_ 
 
-### Seção 10: Projeto App de Receitas
+### Seção 10: Projeto App de Receitas ✅
 
-- [ ] 10-1: _Projeto - App de Receitas_
+- [x] 10-1: _Projeto - App de Receitas_
 
 # Desenvolvimento Back-End
 
-### Seção 1: Docker - Utilizando Containers
+### Seção 1: Docker - Utilizando Containers ⏳
 
 - [ ] 1-1: _Introdução - Back-end_
 - [ ] 1-1: _Utilizando Containers - Docker_
