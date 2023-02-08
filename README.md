@@ -143,7 +143,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 10-1: _Projeto - App de Receitas_
 
-# Desenvolvimento Back-End
+# Desenvolvimento Back-End ⏳
 
 ### Seção 1: Docker - Utilizando Containers ⏳
 
