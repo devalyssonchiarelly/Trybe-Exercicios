@@ -145,17 +145,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 # Desenvolvimento Back-End ⏳
 
-### Seção 1: Docker - Utilizando Containers ⏳
+### Seção 1: Docker - Utilizando Containers ✅
 
 - [x] 1-1: _Introdução - Back-end_
 - [x] 1-1: _Utilizando Containers - Docker_
 - [x] 1-2: _Manipulando Imagens no Docker_
-- [ ] 1-3: _Orquestrando Containers com Docker Compose_
-- [ ] 1-4: _Projeto - Docker Todo-List_
+- [x] 1-3: _Orquestrando Containers com Docker Compose_
+- [x] 1-4: _Projeto - Docker Todo-List_
 
-### Seção 2: Introdução à SQL
+### Seção 2: Introdução à SQL ⏳
 
-- [ ] 2-1: _Introdução - Banco de dados relacionais_
+- [x] 2-1: _Introdução - Banco de dados relacionais_
 - [ ] 2-1: _Banco de dados SQL_
 - [ ] 2-2: _Encontrando dados em um banco de dados_
 - [ ] 2-3: _Filtrando dados de forma específica_
