@@ -156,9 +156,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ### Seção 2: Introdução à SQL ⏳
 
 - [x] 2-1: _Introdução - Banco de dados relacionais_
-- [ ] 2-1: _Banco de dados SQL_
-- [ ] 2-2: _Encontrando dados em um banco de dados_
-- [ ] 2-3: _Filtrando dados de forma específica_
+- [x] 2-1: _Banco de dados SQL_
+- [x] 2-2: _Encontrando dados em um banco de dados_
+- [x] 2-3: _Filtrando dados de forma específica_
 - [ ] 2-4: _Manipulando tabelas_
 - [ ] 2-5: _Projeto - All For One_
 
