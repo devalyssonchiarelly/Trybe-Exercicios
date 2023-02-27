@@ -159,8 +159,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 2-1: _Banco de dados SQL_
 - [x] 2-2: _Encontrando dados em um banco de dados_
 - [x] 2-3: _Filtrando dados de forma específica_
-- [ ] 2-4: _Manipulando tabelas_
-- [ ] 2-5: _Projeto - All For One_
+- [x] 2-4: _Manipulando tabelas_
+- [x] 2-5: _Projeto - All For One_
 
 ### Seção 3: Funções SQL,  JOINs e Normalização
 
