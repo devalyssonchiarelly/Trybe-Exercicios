@@ -171,9 +171,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ### Seção 4: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 4-1: _Intro - Node.js_
-- [ ] 4-1: _Node.js - Um motor JavaScript_
-- [ ] 4-2: _Node.js  - Fluxo Assíncrono_
+- [x] 4-1: _Intro - Node.js_
+- [x] 4-1: _Node.js - Um motor JavaScript_
+- [x] 4-2: _Node.js  - Fluxo Assíncrono_
 - [ ] 4-3: _Mocha, Chai e sinon - Testes de Back-end com Node.js_
 - [ ] 4-4: _Express - HTTP com Node.js_
 - [ ] 4-5: _Express - Middlewares_
