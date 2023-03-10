@@ -153,7 +153,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 1-3: _Orquestrando Containers com Docker Compose_
 - [x] 1-4: _Projeto - Docker Todo-List_
 
-### Seção 2: Introdução à SQL ⏳
+### Seção 2: Introdução à SQL ✅
 
 - [x] 2-1: _Introdução - Banco de dados relacionais_
 - [x] 2-1: _Banco de dados SQL_
@@ -162,14 +162,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 2-4: _Manipulando tabelas_
 - [x] 2-5: _Projeto - All For One_
 
-### Seção 3: Funções SQL,  JOINs e Normalização
+### Seção 3: Funções SQL,  JOINs e Normalização ✅
 
 - [x] 3-1: _Funções mais usadas no SQL_
 - [x] 3-2: _Descomplicando JOINs_
 - [x] 3-3: _Transformando ideias em um modelo de banco de dados_
 - [x] 3-4: _Aula ao vivo + Projeto - One For All_
 
-### Seção 4: Introdução ao desenvolvimento Web com Node.js
+### Seção 4: Introdução ao desenvolvimento Web com Node.js ⏳
 
 - [x] 4-1: _Intro - Node.js_
 - [x] 4-1: _Node.js - Um motor JavaScript_
