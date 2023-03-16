@@ -169,7 +169,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3-3: _Transformando ideias em um modelo de banco de dados_
 - [x] 3-4: _Aula ao vivo + Projeto - One For All_
 
-### Seção 4: Introdução ao desenvolvimento Web com Node.js ⏳
+### Seção 4: Introdução ao desenvolvimento Web com Node.js ✅
 
 - [x] 4-1: _Intro - Node.js_
 - [x] 4-1: _Node.js - Um motor JavaScript_
@@ -177,9 +177,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 4-3: _Mocha, Chai e sinon - Testes de Back-end com Node.js_
 - [x] 4-4: _Express - HTTP com Node.js_
 - [x] 4-5: _Express - Middlewares_
-- [ ] 4-6: _Atividades + Projeto - Talker Manager_
+- [x] 4-6: _Atividades + Projeto - Talker Manager_
 
-### Seção 5: Node.js - Camada de Serviço e Arquitetura Rest e Restful
+### Seção 5: Node.js - Camada de Serviço e Arquitetura Rest e Restful ⏳
 
 - [ ] 5-1: _Introdução - Arquitetura de Software_
 - [ ] 5-1: _Arquitetura de Software - Camada de Model_
