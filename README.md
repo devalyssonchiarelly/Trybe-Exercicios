@@ -179,16 +179,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 4-5: _Express - Middlewares_
 - [x] 4-6: _Atividades + Projeto - Talker Manager_
 
-### Seção 5: Node.js - Camada de Serviço e Arquitetura Rest e Restful ⏳
+### Seção 5: Node.js - Camada de Serviço e Arquitetura Rest e Restful ✅
 
 - [x] 5-1: _Introdução - Arquitetura de Software_
 - [x] 5-1: _Arquitetura de Software - Camada de Model_
 - [x] 5-2: _Arquitetura de Software - Camada de Controller e Service_
 - [x] 5-3: _Arquitetura Web - Rest e Restful_
 - [x] 5-4: _Arquitetura de Software - Testando as Camadas_
-- [ ] 5-5: _Projeto - Store Manager_
+- [x] 5-5: _Projeto - Store Manager_
 
-### Seção 6: Node.js - ORM e Autenticação
+### Seção 6: Node.js - ORM e Autenticação ⏳
 
 - [ ] 6-1: _Introdução - Node.js: ORM e Autenticação_
 - [ ] 6-1: _ORM - Interface da aplicação com o banco de dados_
