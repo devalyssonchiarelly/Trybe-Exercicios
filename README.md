@@ -190,12 +190,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ### Seção 6: Node.js - ORM e Autenticação ⏳
 
-- [ ] 6-1: _Introdução - Node.js: ORM e Autenticação_
-- [ ] 6-1: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 6-2: _ORM - Associations_
-- [ ] 6-3: _JWT - (JSON Web Token)_
-- [ ] 6-4: _Testando APIs com Testes de Integração_
-- [ ] 6-5: _Projeto - API de Blogs_
+- [x] 6-1: _Introdução - Node.js: ORM e Autenticação_
+- [x] 6-1: _ORM - Interface da aplicação com o banco de dados_
+- [x] 6-2: _ORM - Associations_
+- [x] 6-3: _JWT - (JSON Web Token)_
+- [x] 6-4: _Testando APIs com Testes de Integração_
+- [x] 6-5: _Projeto - API de Blogs_
 
 ### Seção 7: Deployment
 
